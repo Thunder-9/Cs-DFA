@@ -1,0 +1,88 @@
+S1
+
+0
+ potential skey 000001 f
+ potential skey 000100 f
+ potential skey 000101 f
+ potential skey 010001 f
+ potential skey 010101 f
+ potential skey 011000 f
+ potential skey 100001 f
+ potential skey 100100 f
+ potential skey 100101  v 
+ potential skey 110001 f
+ potential skey 110101 f
+ potential skey 111000	f
+
+						100101 000100 000101 010001 010101 011000
+
+
+
+ potential skey 000100 v
+ Skey nb  0
+ potential skey 000101 v								
+ Skey nb  1
+ potential skey 010100 f
+ Skey nb  2
+ potential skey 010101 v
+ Skey nb  3
+ potential skey 100000 f
+ Skey nb  4
+ potential skey 100001 v
+ Skey nb  5
+ potential skey 100100 v
+ Skey nb  6					000100 000101 010101 100001 100100 100101
+ potential skey 100101 v			000100 000101 010101 100001 100100 100101
+ Skey nb  7
+ potential skey 101010 f			000100 000101 010101 100001 100100 100101	
+ Skey nb  8
+ potential skey 101011 f
+ Skey nb  9
+ potential skey 110110 f
+ Skey nb  10
+ potential skey 110111 f
+
+
+
+31
+ potential skey 000100f
+ potential skey 000101 f
+ potential skey 001100 f
+ potential skey 010100 f
+ potential skey 010101 f
+ potential skey 011100 f
+ potential skey 100000 f
+ potential skey 100101 v
+ potential skey 101110 f
+ potential skey 110000 f
+ potential skey 110101 f
+ potential skey 111110 f
+
+30 
+
+ potential skey 010111
+ potential skey 011111
+ potential skey 100101
+ potential skey 101101
+ potential skey 110011
+ potential skey 110111
+ potential skey 111011
+ potential skey 111111
+
+
+k16 100101000101111011110011001101010010010111001101	
+
+1111001 x 10110xx x 11xx101 x 1101101 x 0100011 x 0010001 x 11x10x0 x 0x0x010 x
+1111001 p 10110xx p 11xx101 p 1101101 p 0100011 p 0010001 p 11x10x0 p 0x0x010 p
+1111001 p 10110xx p 11xx101 p 1101101 p 0100011 p 0010001 p 11x10x0 p 0x0x010 p
+1111001 0 10110xx 0 11xx101 0 1101101 0 0100011 0 0010001 0 11x10x0 0 0x0x010 0
+1111001 0 1011000 0 1100101 0 1101101 0 0100011 0 0010001 0 1101000 0 0000010 0
+
+1111 0010 1011 0000 1100 1011 1101 1010 0100 0110 0010 0011 1101 0000 0000 0100
+f     1    b    0    c    b    d    a    4    6     2   3     d   0    0    4
+
+
+
+
+
+
